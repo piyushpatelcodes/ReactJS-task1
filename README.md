@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 ## Responsive Word Counter
 
-##Preview
+## Preview
 Deployment link : https://mern3-react-js-task1-piyush-patel.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
